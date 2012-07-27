@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Kenta Murata"]
   s.email       = ["mrkn@mrkn.jp"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Kernel#let for block-local vairables}
+  s.description = %q{Provide Kernel#let for binding names and values as block-local method}
 
   s.rubyforge_project = "kernel_let"
 
