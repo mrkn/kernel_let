@@ -1,6 +1,6 @@
-# Kenrel#let
+# Kernel#let
 
-This provids Kernel#let to bind name and variable pairs the given hash parameter as block-local variables.
+This provids `Kernel#let` to bind name and variable pairs the given hash parameter as block-local variables.
 
 ## Installation
 
